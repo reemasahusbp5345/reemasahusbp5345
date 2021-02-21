@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**reemasahusbp5345/reemasahusbp5345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi 👋, Reema Sahu, a Full Stack Web Developer. 
+ 
+  
+### About Me
+- 🔭 I’m currently looking for job.
+- 🌱 I’m currently learning MERN stack Development at [masai school](https://www.masaischool.com/).
+- 📫 My Portfolio: [https://github.com/reemasahusbp5345/reema.github.io/](https://github.com/reemasahusbp5345/reema.github.io) ;
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1dsOBhxvwoKgTE62k-C3FlE-fUhX8wON_/view?usp=sharing);
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: reemasahusbp5345@gmail.com;
+- Linkedin Url: https://www.linkedin.com/in/reema-sahu/;
+  
+ 
+ ### Skills
+- 🚀 Languages - **HTML, CSS and JavaScript**
+- 🚀 FrameWork/Libraries - **React.js, Express.js, MaterialUI**
+- 🚀 Databases/Backend - **MongoDB, Node.js**
+- 🚀 Others - **Git, VSCode**
+ 
+<div style = "display:flex; justify-content: space-between" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=reemasahusbp5345&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reemasahusbp5345&show_icons=true&theme=radical" />
+</div>
+ 
+ 
