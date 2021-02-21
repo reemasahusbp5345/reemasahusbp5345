@@ -4,7 +4,7 @@
 ### About Me
 - 🔭 I’m currently looking for job.
 - 🌱 I’m currently learning MERN stack Development at [masai school](https://www.masaischool.com/).
-- 📫 My Portfolio: [https://github.com/reemasahusbp5345/reema.github.io/](https://github.com/reemasahusbp5345/reema.github.io) ;
+- 📫 My Portfolio: [https://reemasahusbp5345.github.io/](https://reemasahusbp5345.github.io/);
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1dsOBhxvwoKgTE62k-C3FlE-fUhX8wON_/view?usp=sharing);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: reemasahusbp5345@gmail.com;
