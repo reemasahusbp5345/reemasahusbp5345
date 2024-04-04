@@ -3,9 +3,8 @@
   
 ### About Me
 - 🔭 I’m currently looking for job.
-- 🌱 I’m currently working at [Infinity Learn](https://infinitylearn.com/).
 - 📫 My Portfolio: [https://reemasahusbp5345.github.io/](https://reemasahusbp5345.github.io/);
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1zTjitFghDRSuBIKBRT7jOBLiHI8v3C6c/view?usp=sharing);
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1b2v0cCKy2P97gOKjsjZRMGL_b246DcKl/view?usp=sharing);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: reemasahusbp5345@gmail.com;
 - Linkedin Url: https://www.linkedin.com/in/reema-sahu/;
