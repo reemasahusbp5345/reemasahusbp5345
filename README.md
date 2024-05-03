@@ -2,9 +2,9 @@
  
   
 ### About Me
-- 🔭 I’m currently looking for job.
+- 🔭 Experienced Frontend Developer.
 - 📫 My Portfolio: [https://reemasahusbp5345.github.io/](https://reemasahusbp5345.github.io/);
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1b2v0cCKy2P97gOKjsjZRMGL_b246DcKl/view?usp=sharing);
+- 📫 My Resume: [View PDF]([https://drive.google.com/file/d/1b2v0cCKy2P97gOKjsjZRMGL_b246DcKl/view?usp=sharing](https://drive.google.com/file/d/1aNg1b32EcD4U6Xg_Y46NNrYE_CkIAQC9/view?usp=drive_link));
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: reemasahusbp5345@gmail.com;
 - Linkedin Url: https://www.linkedin.com/in/reema-sahu/;
